@@ -90,7 +90,7 @@ def reset(): # generate config for ppm.
         "version": "v0.0.1",
         "lang": "defualt",
         "repo_url": {
-            "main": "https://mirrors.plusto.stevesuk-official.ml/" + platform.system().title() + "/" + platform.machine().lower(),
+            "main": "https://mirrors.ppm.stevesuk-official.ml/" + platform.system().title() + "/" + platform.machine().lower(),
         }
     }
 
